@@ -1,0 +1,19 @@
+
+    .social-icons a {
+        text-decoration: none;
+        margin: 0 30px;
+        color: #FFFFFF;
+        font-size: 50px;
+    }
+    
+    .social-icons a:hover {
+        color: #D900CE;
+    }
+
+    .footer-text{
+        font-size: 20px;
+    }
+
+    hr{
+        color: #FFFFFF;
+    }

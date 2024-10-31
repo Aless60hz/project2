@@ -1,0 +1,14 @@
+/* Custom styles for a transparent navbar */
+.navbar {
+    background-color: rgba(47, 47, 47, 0.5); /* Semi-transparent black background */
+    }
+    .navbar-nav .nav-link {
+    color: white; /* Navbar text color */
+    }
+    .navbar-nav .nav-link:hover {
+    color: #ddd; /* Hover effect */
+    }
+    .navbar-brand {
+    color: white;
+}
+    
