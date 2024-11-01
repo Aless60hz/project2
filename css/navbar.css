@@ -1,6 +1,6 @@
 /* Custom styles for a transparent navbar */
 .navbar {
-    background-color: rgba(47, 47, 47, 0.5); /* Semi-transparent black background */
+    background-color: #2f2f2f80; /* Semi-transparent black background */
     }
     .navbar-nav .nav-link {
     color: white; /* Navbar text color */
